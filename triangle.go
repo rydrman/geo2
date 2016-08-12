@@ -1,4 +1,4 @@
-package geo
+package geo2
 
 //Triangle represents a 2d triangle
 type Triangle struct {

@@ -1,4 +1,4 @@
-package geo
+package geo2
 
 import "testing"
 
